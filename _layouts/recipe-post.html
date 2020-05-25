@@ -1,6 +1,12 @@
 ---
 layout: post
 ---
+{% if page.image %}
+<img src="{{site.baseurl}}{{site.imagepath}}/{{page.image}}" alt="{{page.title}}">
+{% endif %}
+
+<p>
 {{ content }}
+</p>
 
 <a href="https://github.com/kennyjackelen/recipes/tree/master/{{ page.path }}" target="_blank">Page Source</a>
