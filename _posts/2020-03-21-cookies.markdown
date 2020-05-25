@@ -3,7 +3,9 @@ layout: recipe-post
 title:  "Cookies"
 date:   2020-03-21 17:03:18 -0500
 tags: baking cookies
+image: cookies.jpg
 ---
+
 - 227 g salted butter softened (2 sticks)
 - 200 g white (granulated) sugar
 - 220 g light brown sugar packed
